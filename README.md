@@ -29,7 +29,7 @@ If you just want to try ,you should download sa_yolov7.pt,and change data/glove.
 
 ![data/glove.yaml](https://github.com/maple0leaves/SA-YOLOV7/blob/master/img/gloveyaml.png)
 
-![test.py](https://github.com/maple0leaves/SA-YOLOV7/blob/master/img/test.png)
+![test.py](https://github.com/maple0leaves/SA-YOLOV7/blob/master/img/testpy.png)
 
 #### Training
 
